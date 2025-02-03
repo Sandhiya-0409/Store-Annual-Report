@@ -6,7 +6,7 @@
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales.
 
 # Summary
-- Compare the sales and orders using single chart.
+- Comparing the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more men or women?
 - What are different order status?
